@@ -20,7 +20,7 @@ function Contact() {
       </div>
 
       <hr/>
-      <footer>© Coding excellence at your service - developed by Dhruv Sheladiya</footer>
+      <footer>© Coding excellence at your service - developed by Krutik Mangrola</footer>
 
     </>
   )
